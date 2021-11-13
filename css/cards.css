@@ -1,0 +1,37 @@
+.container .cards{
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+}
+
+.card-apply{
+  background-color: white;
+  align-content: center;
+  text-align: center;
+  border-radius: 5px;
+  box-shadow: 0 0 15px rgb(0 0 0 / 10%);
+  width: 200px;
+  padding: 20px;
+}
+
+.cards img{
+  height: 100px;
+}
+
+.card-learn{
+  background-color: white;
+  border-radius: 5px;
+  text-align: center;
+  box-shadow: 0 0 15px rgb(0 0 0 / 10%);
+  width: 200px;
+  padding: 20px;
+}
+
+.card-build{
+  background-color: white;
+  border-radius: 5px;
+  text-align: center;
+  box-shadow: 0 0 15px rgb(0 0 0 / 10%);
+  width: 200px;
+  padding: 20px;
+}

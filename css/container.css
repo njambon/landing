@@ -1,0 +1,12 @@
+.container h2{
+  color : black;
+  font-weight: bold;
+  text-align: center;
+  font-size: 26px;
+}
+
+
+.container {
+  width: 900px;
+  margin: 0 auto;
+}

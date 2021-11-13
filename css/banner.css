@@ -1,0 +1,27 @@
+.banner{
+  height: 600px;
+  margin:0px;
+  padding: 0px;
+}
+
+.banner .container{
+  padding: 210px 320px;
+}
+
+.container h1{
+  color: white;
+}
+
+.container p{
+  color: #959798;
+  font-weight: lighter;
+  font-size: 18px;
+  margin-bottom: 35px;
+}
+
+.btn-green{
+  background-color: #1FDD88;
+  color: white;
+  border-radius: 20px;
+  padding: 14px 32px;
+}
